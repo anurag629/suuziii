@@ -1,0 +1,9 @@
+*db*
+
+*migrations*
+
+# Ignore python bytecode files
+*.pyc
+
+# Ignore the __pycache__ directory
+**/__pycache__/
